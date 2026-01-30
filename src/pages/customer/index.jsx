@@ -7,7 +7,7 @@ import Header from "../../layout/Header";
 import SideBar from "../../layout/SideBar";
 import ChartBar from "../../components/ChartBar";
 
-const Chart = () => {
+const Customer = () => {
   return (
     <>
       <Header />
@@ -21,4 +21,4 @@ const Chart = () => {
   );
 };
 
-export default Chart;
+export default Customer;
